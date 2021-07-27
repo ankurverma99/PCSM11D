@@ -35,5 +35,6 @@ public class BLueStone {
 	public String getErrorMes() {
 		return error.getText();
 	}
+	//this cahnge has been done by github
 
 }
